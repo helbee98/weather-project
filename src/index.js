@@ -7,3 +7,6 @@ function handleSearchSubmit(event) {
 
 let searchFormElement = document.querySelector("#search-form");
 searchFormElement.addEventListener("submit", handleSearchSubmit);
+
+alert("Hello! I am an alert box!!");
+
